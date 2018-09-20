@@ -1,4 +1,4 @@
-nxos_native.txt
+yang/01-yang/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
