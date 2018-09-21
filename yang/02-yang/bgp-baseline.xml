@@ -9,6 +9,7 @@
                 <disPolBatch>disabled</disPolBatch>
                 <dom-items>
                     <Dom-list>
+                        <rtrId>172.16.0.1</rtrId>
                         <name>default</name>
                         <af-items>
                             <DomAf-list>
