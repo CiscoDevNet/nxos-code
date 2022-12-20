@@ -33,9 +33,9 @@ __license__ = "MIT"
 #
 sbx_n9kv_ao = {
              "address": "sbx-nxos-mgmt.cisco.com",
-             "netconf_port": 10000,
+             "netconf_port": 830,
              "restconf_port": 443,
-             "ssh_port": 818122,
+             "ssh_port": 22,
              "username": "admin",
              "password": "Admin_1234!"
           }
