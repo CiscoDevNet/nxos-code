@@ -28,7 +28,6 @@
                                 <maxExtEcmp>1</maxExtEcmp>
                                 <maxExtIntEcmp>1</maxExtIntEcmp>
                                 <maxMxdEcmp>1</maxMxdEcmp>
-                                <name>bgp-DomAf</name>
                                 <nonCritNhTimeout>10000</nonCritNhTimeout>
                                 <prefix-items>
                                     <AdvPrefix-list>
