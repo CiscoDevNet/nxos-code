@@ -21,7 +21,7 @@ PAYLOAD = {
 session.post(URL,json=PAYLOAD,verify=False)
 
 # Define SYS_URL variable
-SYS_URL = "http://sbx-nxos-mgmt.cisco.com/api/mo/sys.json"
+SYS_URL = "https://sbx-nxos-mgmt.cisco.com/api/mo/sys.json"
 
 # Obtain system information by making session.get call
 # then convert it to JSON format then filter to system attributes
